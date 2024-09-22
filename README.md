@@ -34,6 +34,3 @@ I have writen some tests in API side using [Mocha](https://mochajs.org/) and [Ch
 Mocha is used to build tests and Chai to configure the asserts (TDD) and the behaviours (BDD) to improve test accuracy against the way we can use the API and also the way we should take care about errors. This way we know it's OK for every situation.
 
 You can run all tests entering the server folder in terminal and just typing: ```npm run test``` - It's configured to run and compile with **Babel (ES6)** in then server "package.json".
-
-#### Developed by
-Rodrigo Quiñones Pichioli, since Mar/02/2018
